@@ -1,5 +1,8 @@
 # Docker, Firefox et le GUI sur Ubuntu - X11 obligatoire
 
+Ceci est un exemple d'interaction avec un programme (Firefox) installé sur le système d'exploitation hébergeant Docker,
+c'est uniquement à but pédagogique et n'a pas d'intêret en utilisation normale. 
+
 ## Lancement de Firefox
 
 Créer un dossier firefoxgui
